@@ -1,0 +1,12 @@
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Git1\Git\Win-dows\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
